@@ -1,0 +1,26 @@
+Auto pranje komplet (zavisi od stanja) — 1400–2400 din.
+Auto pranje unutra (zavisi od stanja) — 700–1200 din.
+Lasersko standardno pranje — 500 din.
+Lasersko extra pranje — 700 din.
+Kombi pranje spolja — 1000–1400 din.
+Kombi pranje unutra — 700–1400 din.
+Kombi pranje komplet — 1800–2400 din.
+Kombi pranje furgona — 300 din.
+Auto dubinsko pranje — 8000–12 000 din.
+Dubinsko pranje sedišta — 6000 din.
+Pranje motornog prostora — 1000 din.
+Motocikl pranje — 400 din.
+Pranje kamiona — 6000 din.
+Dubinsko pranje kamiona — 20 000 din.
+Poliranje farova — 3000 din.
+Pranje tepiha po kvm — 250 din.
+Zamena guma 14 — 2600 din.
+Zamena guma 15 — 2800 din.
+Zamena guma 16 — 3000 din.
+Zamena guma 17 — 3200 din.
+Zamena guma 18 — 3500 din.
+Zamena guma 19 — 4000 din.
+Zamena guma 20 — 4500 din.
+Čepovanje — 500 din.
+Nabacivanje točkova (ceo set) — 1000 din.
+Zamena guma na kamionu — 6000 din.
